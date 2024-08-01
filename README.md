@@ -6,4 +6,4 @@ This infographic is based on the concepts of the movie "Hamelin 77" that I direc
 ### Download higher resolution versions of the Infographic at:
 https://github.com/javismiles/every-prompt-matters/tree/master/images
 
-![Alt text](./images/Every-Prompt-Matters-Infographic-Javier-Ideami-apr23v1.jpg?raw=true "Every Prompt Matters Infographic")
+![Alt text](./images/Every-Prompt-Matters-Infographic-Javier-Ideami-aug24v1.jpg?raw=true "Every Prompt Matters Infographic")
